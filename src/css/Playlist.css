@@ -1,0 +1,46 @@
+.playlist
+{
+    text-align: center;
+    /* border:2px solid purple; */
+    background-color: black;
+    color: white;
+}
+.playlist > .playlist__header
+{
+    /* border: 2px solid orange; */
+    height: 200px;
+    background-color: black;
+    color: white;
+
+}
+.playlist__header .playlist__header__title
+{
+    /* margin: auto; */
+    /* vertical-align: middle; */
+    /* align-self: center; */
+    /* align -content:center ; */
+}
+
+.playlist__header__title
+{
+    position: relative;
+    top: 40%;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: fantasy  ;
+}
+
+.button button
+{
+    cursor: pointer;
+    outline: none;
+    width: 120px;
+    height: 30px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    background-color: rgb(18, 160, 18);
+    border: transparent;
+    border-radius: 15px;
+}

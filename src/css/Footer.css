@@ -1,0 +1,48 @@
+.footer
+{
+    outline: none;
+    display: flex;
+    background-color: black;  
+}
+
+.footer div
+{
+    cursor: pointer;
+    line-height: 10px;
+    flex: 0.3;
+    /* border: 1px solid green; */
+    text-align: center;
+    /* background-color: gold; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    /* outline: none; */
+}
+.footer div:hover
+{
+    /* outline: none; */
+    background-color:purple;
+}
+.footer div:active
+{
+    /* outline: none; */
+    background-color: purple;
+}
+.footer .MuiSvgIcon-root
+{
+    font-size:35px ;    
+    color: gold;
+    /* outline: none; */
+}
+
+.footer .label
+{
+ color: goldenrod;
+ padding-bottom: 10px;
+ font-size: 14px;
+ /* text-decoration: none; */
+}
+ .navlink
+ {
+     text-decoration: none;
+     outline: none;
+ }

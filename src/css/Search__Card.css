@@ -1,0 +1,18 @@
+.search__card
+{
+    /* border: 1px solid red; */
+    background:linear-gradient(red,purple);
+    height: 100px;
+    width: 40vw;
+    margin-left: 20px;
+    padding: 10px 0px 0px 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-radius: 3px;
+    /* margin: 10px 0px 10px 0px; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* display: flex; */
+    /* flex:1; */
+    /* flex-wrap: wrap; */
+}
